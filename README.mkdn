@@ -2,6 +2,8 @@
 
 Add functionality when saving files in vim:
 
+- chmodx - Set the executable bit on files with a shebang.
+
 ## Usage
 
 However you install vim plugins.
