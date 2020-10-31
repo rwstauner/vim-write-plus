@@ -3,6 +3,7 @@
 Add functionality when saving files in vim:
 
 - chmodx - Set the executable bit on files with a shebang.
+- mkdirp - Automatically make parent directories when trying to write a file.
 
 ## Usage
 
