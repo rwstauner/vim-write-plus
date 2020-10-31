@@ -1,0 +1,11 @@
+# vim-write-plus
+
+Add functionality when saving files in vim:
+
+## Usage
+
+However you install vim plugins.
+
+Example with `vim-plug`:
+
+    Plug 'rwstauner/vim-write-plus'
